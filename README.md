@@ -2,14 +2,6 @@
 
 I'm a student, open source contributor and COO @ [Ferriteworks](https://ferriteworks.com). I've worked extensively and focused on full-stack development, automation, machine learning & AI, data processing, algorithmic trading, and devloper tooling. The tools I work most with are Python, React (and subsequently Typescript) and Rust, though you can find the full list in my tech stack below.
 
-## Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/kknxzz/kknxzz/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/kknxzz/kknxzz/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution snake" src="https://raw.githubusercontent.com/kknxzz/kknxzz/output/github-contribution-grid-snake.svg" />
-</picture>
-
 ## Tech Stack
 
 <p align="left">
