@@ -1,6 +1,6 @@
-# About me
+# kknxzz
 
-I'm a student and open source contributor focused on full-stack development, automation, AI, data processing, and developer tooling. I work extensively with Python, Node.js, React, and a range of other tech, most of which you can find in my tech stack below.
+I'm a student, open source contributor and COO @ [Ferriteworks](https://ferriteworks.com). I've worked extensively and focused on full-stack development, automation, machine learning & AI, data processing, algorithmic trading, and devloper tooling. The tools I work most with are Python, React (and subsequently Typescript) and Rust, though you can find the full list in my tech stack below.
 
 ## Tech Stack
 
@@ -33,47 +33,20 @@ I'm a student and open source contributor focused on full-stack development, aut
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
   <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Windows%20Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=white"/>
+
   <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/>
 </p>
 
-## Machine Learning and AI
+## Other stuff
+  ### Ferriteworks
+  Ferriteworks is a company me and a few others founded. We have government clients and seek to work more with the public sector.
 
-A lot of my experience comes from working with Machine Learning tools and AI in general. Aside from learning how AI works, I've also trained some of my own, which include but are not limited to LLM's, CNN's, YOLO models, LSTM's, etc.
+  ### Machine learning
+  I've worked a lot in the ML sector, training and using models such as: LLM's, diffusion-based models, YOLO-type models, LSTM's, etc.
 
-## Projects
+  ### Algorithmic Tradic
+  (no im not a crypto bro but i do own a ledger) 
+  Considering I like machine learning, algorithms and coding in general, this naturally came to me. In general I've trained my own models for algorithmic trading using past market data, and by supplying them with pre-made strategies and indicators, my best models were able to make about 8k a year (with some caveats)
 
-**Projects I made or had significant contributions to:**
-
-- **Stratum App (link not included due to repo being private):**  
-  Full-stack platform for archaeologists to manage and store data, made with React, React Native, and Python for the backend.
-
-- **[QuickBot](https://github.com/levinismynameirl/Quick-Bot):**  
-  macOS CLI tool designed for automation and quality of life improvements in the terminal.  
-  - [QuickBot Installer](https://github.com/levinismynameirl/QuickBot-Installer): Installer for easy setup  
-  - [QuickBot Recipes](https://github.com/levinismynameirl/QuickBot-Recipes): Plugin ecosystem
- 
-- **[My personal website](https://github.com/levinismynameirl/constlmxyz) and the [Link to the website](https://constlm.xyz)**
-  My personal website. I mostly use this as a portfolio, and I also take advantage of the domain to have some api's on some subdomains public and accesible from anywhere in the world.
-  I will admit, however, that the website's text content is mostly AI generated (not the website's source code, that was made by me) due to me not having much time to fill in the text. That being said, I did fact check what is written and even though it might look weird most of what is said there is real.
-
-- **[Liquid-React library](https://github.com/PzmuV1517/liquid-react)
-  Liquid react is a React-Native library me and a good friend of mine made, which exposes Apple's native Liquid Glass components to be used in a React Native project, something you could previously only do in Swift. 
-  "What about the other liquid glass libraries for React?" From the information we've gathered, almost all other libraries do not use Apple's native liquid-glass UI compinents, but rather try to imitate and make their own.
-  Install using npm:
-  `npm install liquid-react`
-
-**Open source Projects/repos I've contributed to**
-- **[Discord.py](https://github.com/Rapptz/discord.py)**
-  As it's name suggests, (and it's description as well) Discord.py is a Discord API wrapper written in, well, Python. As of writing this, I've had 1 PR merged, which was to fix a bug related to FFmpeg errors.
-
-## Interests
-
-- Any type of Full Stack app, really. It mostly depends on what it's about, though. As I mentioned above I also find it interesting to work with ML tools and creating AI's.
-- I also enjoy learning and collaborating in the open source/community driven projects and apps ;)
-
-## GitHub Stats
-
-<p align="left">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=levinismynameirl&theme=dark&hide_border=false" alt="GitHub Streak" height="150">  
-</p>
+  ### Homelab
+  I own my own home server rack, complete with a Dell Poweredge r740 running Proxmox and some MikroTik networking gear. I mostly use this to replace some paid services, but I also have a lot of other stuff that help me learn more in there. (I<3iDRAC)
