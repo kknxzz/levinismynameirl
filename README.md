@@ -52,16 +52,8 @@ I'm a student, open source contributor and COO @ [Ferriteworks](https://ferritew
   <img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white"/>
 </p>
 
-## Other stuff
-  ### Ferriteworks
-  Ferriteworks is a company me and a few others founded, starting from basically nothing and growing into something with actual government clients and actual contracts, which still feels weird to type out sometimes. We seek to work more with the public sector going forward, since that's where a lot of the interesting (and honestly better paying) problems are, and it lines up with where we already want to take the company long term anyway. Its grown fast, from a couple of us messing around with an idea into something with a real office, a real lease and real revenue, and I still cant fully believe that happened in the timeframe it did.
+## principle
+Absolutely all of my open-source projects follow the UNIX philosophy, which is to **do one thing and do it well**
 
-  ### Machine learning
-  I've worked a lot in the ML sector, training and using models such as: LLM's, diffusion-based models, YOLO-type models, LSTM's, etc, mostly by throwing myself at whatever problem needed solving at the time and figuring out the math and the pipeline as I went rather than following some structured course. 
-  
-  ### Algorithmic Tradic
-  (no im not a crypto bro but i do own a ledger)
-  Considering I like machine learning, algorithms and coding in general, this naturally came to me, since its basically the intersection of every single thing I already like doing anyway, so it felt less like picking up a new hobby and more like connecting a few dots that were already there. In general I've trained my own models for algorithmic trading using past market data, and by supplying them with pre-made strategies and indicators, my best models were able to make about 8k a year (with some caveats).
-
-  ### Homelab
+### Homelab
   I own my own home server rack, complete with a Dell Poweredge r740 running Proxmox and some MikroTik networking gear, and at this point its less a homelab and more just an actual small data center that happens to live in my house instead of somewhere sensible. I mostly use this to replace some paid services, but I also have a lot of other stuff in there that helps me learn more about infrastructure, networking and self hosting in general. (I<3iDRAC)
